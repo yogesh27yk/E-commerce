@@ -72,8 +72,7 @@ public class StepDefinition {
 			}
 			
 		} catch (Exception e) {
-			System.out.println("Changed by QA");
-			
+			System.out.println("Changed by DEV");
 		}
 	   
 	}
